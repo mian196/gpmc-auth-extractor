@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Account backups & generated tokens (sensitive credentials)
+microg-accounts-*.json
+*.json
+gpmc_auth_tokens.txt
+auth*.txt
+app.revanced.android.gms/
