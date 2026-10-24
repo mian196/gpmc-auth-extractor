@@ -1,6 +1,6 @@
 # GPMC Auth Data Extractor
 
-A utility to generate and extract complete, validated `auth_data` strings for [GPMC (Google Photos Mobile Client)](../gpmc/README.md) from MicroG / MicroG RE without needing root access, modifying apps, or repeatedly deleting accounts.
+A utility to generate and extract complete, validated `auth_data` strings for [GPMC (Google Photos Mobile Client)](https://github.com/xob0t/gpmc) from MicroG / MicroG RE without needing root access, modifying apps, or repeatedly deleting accounts.
 
 ---
 
